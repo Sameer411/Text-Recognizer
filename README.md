@@ -3,7 +3,7 @@ A Kotlin based Android Application For Text Recognition
 
 # Steps To Access The Project
 
-1) Download and Extract the file (Weather.zip)
+1) Download and Extract the file (TextRecognizer.zip)
 
 2) Start Android Studio and open mainActivity.kt file. (Kotlin File) also, open the XML File
 
